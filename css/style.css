@@ -50,16 +50,20 @@ body {
 
 .card img {
     width:100%;
-    height: auto;
+    height: 200px;
 }
 
 .card-content{
-    padding:16px;
+    /* padding:2px; */
+    padding-right: 6px;
+    padding-left: 6px;
+    
 }
 
 .card-content h3{
     font-size: 28px;
     margin-bottom: 8px;
+    text-align: center;
 }
 
 .card-content p{
